@@ -10,8 +10,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.tardis.wiki
-  # baseUrl: /tardis-uptime
+  # cname: status.tardis.wiki
+  baseUrl: /tardis-uptime
   logoUrl: https://tardis.wiki/images/Tardis_images/e/e6/Site-logo.png
   # favicon: 
   name: Tardis Uptime
