@@ -1,6 +1,7 @@
 # Change these first
 owner: Bongo50 # Your GitHub organization or username, where this repository lives
 repo: tardis-uptime # The name of this repository
+user-agent: Bongo50
 
 sites:
   - name: Tardis Wiki
@@ -11,13 +12,16 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tardis.wiki
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://tardis.wiki/images/Tardis_images/e/e6/Site-logo.png
+  # favicon: 
   name: Tardis Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "This page displays the uptime and current status of **[Tardis Wiki](https://tardis.wiki/wiki/)**."
+  introMessage: This status information for [Tardis Wiki](https://tardis.wiki/wiki/), using real-time data from [GitHub](https://github.com/Bongo50/tardis-uptime).
   navbar:
     - title: Status
       href: /
+    - title: Wiki
+      href: https://tardis.wiki/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
