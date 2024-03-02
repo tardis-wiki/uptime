@@ -13,17 +13,18 @@ status-website:
   cname: status.tardis.wiki
   # baseUrl: /tardis-uptime
   logoUrl: https://tardis.wiki/images/Tardis_images/e/e6/Site-logo.png
-  # favicon: 
+  favicon: https://tardis.wiki/images/Tardis_images/9/96/Site-favicon.png
   name: Tardis Uptime
   introTitle: "This page displays the uptime and current status of **[Tardis Wiki](https://tardis.wiki/wiki/)**."
-  introMessage: This status information for [Tardis Wiki](https://tardis.wiki/wiki/), using real-time data from [GitHub](https://github.com/Bongo50/tardis-uptime).
+  introMessage: This status information for [Tardis Wiki](https://tardis.wiki/wiki/) is generated using real-time data from [GitHub](https://github.com/Bongo50/tardis-uptime).
   navbar:
     - title: Status
       href: /
     - title: Wiki
-      href: https://tardis.wiki/
+      href: https://tardis.wiki/wiki/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
