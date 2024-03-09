@@ -4,17 +4,19 @@
     "url": "https://tardis.wiki/wiki/",
     "icon": "https://icons.duckduckgo.com/ip3/tardis.wiki.ico",
     "slug": "tardis-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 837,
-    "timeWeek": 931,
-    "timeMonth": 864,
-    "timeYear": 864,
-    "dailyMinutesDown": {}
+    "time": 904,
+    "timeDay": 1190,
+    "timeWeek": 999,
+    "timeMonth": 904,
+    "timeYear": 904,
+    "dailyMinutesDown": {
+      "2024-03-09": 0
+    }
   }
 ]
