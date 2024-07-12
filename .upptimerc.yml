@@ -1,7 +1,7 @@
 # Change these first
 owner: tardis-wiki # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-user-agent: tardis-wiki
+user-agent: Bongo50
 
 sites:
   - name: Tardis Wiki
