@@ -22,6 +22,8 @@ status-website:
       href: /
     - title: Wiki
       href: https://tardis.wiki/wiki/
+    - title: Bluesky
+      href: https://bsky.app/profile/tardis.wiki
     - title: Twitter/X
       href: https://x.com/Tardis_Wiki
     - title: GitHub
