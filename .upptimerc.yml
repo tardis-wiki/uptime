@@ -5,7 +5,7 @@ user-agent: tardis-wiki-status
 
 sites:
   - name: Tardis Wiki
-    url: https://tardis.wiki/wiki/?redirect=0&nostatus=1
+    url: https://tardis.wiki/wiki/?nomirror=1&nostatus=1
   - name: Tardis Wiki Mirror
     url: https://mirror.tardis.wiki/wiki/
 
