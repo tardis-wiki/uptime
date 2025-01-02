@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tardis.wiki.ico",
     "slug": "tardis-wiki",
     "status": "down",
-    "uptime": "94.66%",
+    "uptime": "94.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.71%",
-    "uptimeMonth": "74.88%",
-    "uptimeYear": "94.66%",
-    "time": 1354,
-    "timeDay": 117,
-    "timeWeek": 709,
-    "timeMonth": 1577,
-    "timeYear": 1354,
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "73.05%",
+    "uptimeYear": "94.49%",
+    "time": 1353,
+    "timeDay": 415,
+    "timeWeek": 431,
+    "timeMonth": 1555,
+    "timeYear": 1353,
     "dailyMinutesDown": {
-      "2025-01-02": 78,
+      "2025-01-02": 881,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -57,6 +57,26 @@
       "2024-03-18": 48,
       "2024-03-11": 267,
       "2024-03-09": 45
+    }
+  },
+  {
+    "name": "Tardis Wiki Mirror",
+    "url": "https://mirror.tardis.wiki/wiki/",
+    "icon": "https://icons.duckduckgo.com/ip3/mirror.tardis.wiki.ico",
+    "slug": "tardis-wiki-mirror",
+    "status": "down",
+    "uptime": "9.52%",
+    "uptimeDay": "9.52%",
+    "uptimeWeek": "9.52%",
+    "uptimeMonth": "9.52%",
+    "uptimeYear": "9.52%",
+    "time": 8,
+    "timeDay": 8,
+    "timeWeek": 8,
+    "timeMonth": 8,
+    "timeYear": 8,
+    "dailyMinutesDown": {
+      "2025-01-02": 0
     }
   }
 ]
