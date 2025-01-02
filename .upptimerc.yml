@@ -5,9 +5,9 @@ user-agent: tardis-wiki-status
 
 sites:
   - name: Tardis Wiki
-    url: https://tardis.wiki/wiki/
+    url: https://tardis.wiki/wiki/?redirect=0&nostatus=1
   - name: Tardis Wiki Mirror
-    url: https://mirror.tardis.wiki/wiki/Doctor_Who_Wiki
+    url: https://mirror.tardis.wiki/wiki/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
