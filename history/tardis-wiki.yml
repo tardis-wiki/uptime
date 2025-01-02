@@ -1,7 +1,7 @@
-url: https://tardis.wiki/wiki/?redirect=0&nostatus=1
+url: https://tardis.wiki/wiki/?nomirror=1&nostatus=1
 status: down
 code: 521
-responseTime: 386
-lastUpdated: 2025-01-02T15:24:51.131Z
+responseTime: 294
+lastUpdated: 2025-01-02T15:25:25.424Z
 startTime: 2024-03-01T20:39:08.602Z
 generator: Upptime <https://github.com/upptime/upptime>
