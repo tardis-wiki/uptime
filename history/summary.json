@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tardis.wiki.ico",
     "slug": "tardis-wiki",
     "status": "up",
-    "uptime": "76.54%",
+    "uptime": "76.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "20.65%",
-    "uptimeMonth": "12.71%",
+    "uptimeWeek": "29.60%",
+    "uptimeMonth": "14.77%",
     "uptimeYear": "75.60%",
-    "time": 1630,
-    "timeDay": 825,
-    "timeWeek": 9151,
-    "timeMonth": 3040,
+    "time": 1628,
+    "timeDay": 788,
+    "timeWeek": 7067,
+    "timeMonth": 3043,
     "timeYear": 1674,
     "dailyMinutesDown": {
       "2025-03-15": 1419,
@@ -125,8 +125,7 @@
       "2024-05-24": 34,
       "2024-03-30": 21,
       "2024-03-22": 176,
-      "2024-03-20": 304,
-      "2024-03-18": 48
+      "2024-03-20": 304
     }
   }
 ]
