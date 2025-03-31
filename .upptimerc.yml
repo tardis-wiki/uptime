@@ -14,8 +14,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tardis.wiki
   # baseUrl: /tardis-uptime
-  logoUrl: https://status.tardis.wiki/wiki-logo.png
-  favicon: https://status.tardis.wiki/wiki-favicon.ico
+  logoUrl: https://status.tardis.wiki/Site-logo.png
+  favicon: https://status.tardis.wiki/Site-favicon.ico
   name: Tardis Uptime
   introTitle: "This page displays the uptime and current status of **[Tardis Wiki](https://tardis.wiki/wiki/)**."
   introMessage: This status information for [Tardis Wiki](https://tardis.wiki/wiki/) is generated using real-time data from [GitHub](https://github.com/Bongo50/tardis-uptime).
