@@ -4,7 +4,7 @@
     "url": "https://tardis.wiki/wiki/?nomirror=1&nostatus=1",
     "icon": "https://icons.duckduckgo.com/ip3/tardis.wiki.ico",
     "slug": "tardis-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "80.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 890,
     "timeYear": 1643,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2025-04-09": 15,
       "2025-03-19": 19,
       "2025-03-15": 1419,
